@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @surya-kapurothu
+- 👀 I’m interested in competitive coding practice, developmental tasks
+- 🌱 I’m currently learning ReactJS, Django Core 
